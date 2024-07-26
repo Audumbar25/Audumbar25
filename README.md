@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=audumbar25&label=Profile%20views&color=0e75b6&style=flat" alt="audumbar25" /> </p>
 
-- 🔭 I’m currently working on **MERN Chat Application: A real-time chat app built with MongoDB, Express, React, and Node.js. It features user registration and login, text messaging, and file sharing. Full Stack Blog Application: A comprehensive blog platform where users can create, manage, and interact with blog posts. It includes user authentication, post creation, comment systems, and more.**
+- 🔭 I’m currently working on **MERN Chat Application and Full Stack Blog Application.**
 
 - 👯 I’m looking to collaborate on **exciting web development projects that push boundaries and solve real-world problems.**
 
