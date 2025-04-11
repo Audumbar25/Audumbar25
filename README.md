@@ -1,110 +1,99 @@
-
 <h1 align="center">Hi 👋, I'm Audumbar Tanangi</h1>
-<h3 align="center">A passionate MERN Developer from India</h3>
+<h3 align="center">🚀 Java Full Stack Developer | React ⚛️ | Spring Boot 🌱 | Passionate Coder</h3>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=audumbar25&label=Profile%20views&color=0e75b6&style=flat" alt="audumbar25" />
+  <img src="https://komarev.com/ghpvc/?username=audumbar25&label=Profile%20views&color=brightgreen&style=flat" alt="audumbar25" />
 </div>
 
-<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-Full%20Stack%20Developer-red?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-Front--end-blue?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-Back--end-brightgreen?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-Database-orange?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FullStack-WebApp-yellow?style=for-the-badge&logo=web"/>
+</p>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
-
-- 🔭 I’m currently working on **MERN Chat Application and Full Stack Blog Application.**
-
-- 👯 I’m looking to collaborate on **exciting web development projects that push boundaries and solve real-world problems.**
-
-- 👨‍💻 All of my projects are available at [My Portfolio](#)
-
-- 💬 Ask me about **anything related to full-stack web development, from front-end frameworks like React to back-end technologies like Node.js.**
-
-- 📫 How to reach me **connect with me via email or on [LinkedIn](https://linkedin.com/in/audumbar-tanangi-b46aa7241).**
-
-- 📄 Know about my experiences [My Resume](#)
-
-- ⚡ Fun fact **I’ve written so many lines of code, my keyboard thinks I’m training for an Olympic typing event!**
 
 <br/>
 
-<h3 align="left">Connect with me:</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+
+### 🔭 Current Project
+💼 I'm currently working on a **React + Spring Boot full-stack Book Store Application** where users can:
+- 📖 Browse and read books
+- 🛒 Buy books
+- 👤 Register/Login and manage their reading library
+
+---
+
+### 💬 About Me
+- 👨‍💻 I love building **real-world web applications** using **Java, Spring Boot, React, and MySQL**
+- 🤝 Looking to collaborate on **challenging and impactful full-stack projects**
+- ⚡ Fun Fact: _I debug like a ninja and type like a caffeinated squirrel!_ 🐿️
+
+---
+
+### 📫 Connect with Me
+
 <p align="left">
   <a href="https://linkedin.com/in/audumbar-tanangi-b46aa7241" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="audumbar-tanangi-b46aa7241" height="30" width="40" />
-  </a>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <a href="https://instagram.com/audumbartanangi17" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="audumbartanangi17" height="30" width="40" />
-  </a>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
   <a href="https://www.leetcode.com/audumbartanangi" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="audumbartanangi" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LeetCode-ffa116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+### 💻 Languages and Tools
+
 <p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-  </a>
+  <!-- Frontend -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
+
+  <!-- Backend -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Spring Boot" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-plain.svg" alt="Hibernate" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://seeklogo.com/images/T/thymeleaf-logo-441830B5F8-seeklogo.com.png" alt="Thymeleaf" width="40" height="40"/>
+
+  <!-- Tools -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
 </p>
-<p align="left">
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" />
-  </a>&nbsp;&nbsp;
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
-  </a>
-</p>
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-  </a>&nbsp;&nbsp;
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
-  </a>
-</p>
-<p align="left">
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-  </a>&nbsp;&nbsp;
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
-  </a>&nbsp;&nbsp;
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" />
-  </a>
-</p>
+
+
+---
+
+### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=audumbar25&show_icons=true&locale=en&layout=compact" alt="audumbar25" />
+  <img src="https://github-readme-stats.vercel.app/api?username=audumbar25&show_icons=true&theme=radical&hide=prs&count_private=true" alt="Audumbar's GitHub stats"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=audumbar25&theme=tokyonight" alt="audumbar25 streak"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=audumbar25&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=audumbar25&" alt="audumbar25" />
-</div>
+---
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=audumbar25&theme=darkhub" alt="audumbar25" />
-</div>
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=audumbar25&theme=gruvbox&row=1&column=6" />
+</p>
+
+---
+
